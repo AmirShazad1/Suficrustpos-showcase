@@ -20,6 +20,10 @@ A simple, visual ordering screen — tap an item, pick a size if it has one, don
 
 ![POS screen](screenshots/3-pos.png)
 
+Building an order, with running totals and KOT/billing actions:
+
+![POS screen with an active order](screenshots/5-pos-order.jpg)
+
 ## Menu Management
 
 Full catalog control: items, categories, pricing, and availability per branch.
